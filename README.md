@@ -42,7 +42,7 @@ Evaluated using R² Score, Mean Squared Error
 Used pickle to serialize the trained model
 
 Flask loads the model for instant predictions
-
+```
 🏗️ Project Structure
 House-Price-Prediction/
 │
@@ -63,7 +63,7 @@ House-Price-Prediction/
 │   └── result.jpg
 │
 └── README.md
-
+```
 🖥️ How to Run Locally
 1️⃣ Install Required Libraries
 pip install flask pandas numpy scikit-learn
